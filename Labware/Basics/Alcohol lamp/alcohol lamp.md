@@ -1,4 +1,4 @@
-#Alcohol lamp
+# Alcohol lamp
 
 ![Alcohol lamp](https://raw.githubusercontent.com/nehenemilabs/DIY_Lab/master/Labware/Basics/Alcohol%20lamp/alcohol%20lamp.jpg)
 
