@@ -1,3 +1,6 @@
+![Alcohol lamp](/alcohol lamp.png)
+
+
 # Materials
 * 35x25.4 mm Copper tubing.
 * 1 25.4 Copper tubing cap.
