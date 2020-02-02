@@ -1,4 +1,4 @@
-![Alcohol lamp](alcohol lamp.jpg)
+![Alcohol lamp](Labware/Basics/Alcohol lamp/alcohol lamp.jpg)
 
 
 # Materials
