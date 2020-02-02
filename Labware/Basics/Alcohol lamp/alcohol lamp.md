@@ -1,4 +1,4 @@
-![Alcohol lamp](Labware/Basics/Alcohol lamp/alcohol lamp.jpg)
+![Alcohol lamp](https://raw.githubusercontent.com/nehenemilabs/DIY_Lab/master/Labware/Basics/Alcohol%20lamp/alcohol%20lamp.jpg)
 
 
 # Materials
