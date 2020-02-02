@@ -1,4 +1,4 @@
-![Alcohol lamp](/alcohol lamp.png)
+![Alcohol lamp](alcohol lamp.jpg)
 
 
 # Materials
